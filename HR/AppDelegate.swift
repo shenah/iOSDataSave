@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  DataSave
+//  HR
 //
-//  Created by 503-03 on 2018. 11. 13..
+//  Created by 503-03 on 2018. 11. 14..
 //  Copyright © 2018년 shenah. All rights reserved.
 //
 
@@ -13,8 +13,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    //데이터 저장할 변수 생성
-    var name = "noname"
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
